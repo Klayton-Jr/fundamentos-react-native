@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import FeatherIcon from 'react-native-vector-icons/Feather';
 
-import { View, AsyncStorage } from 'react-native';
+import { View } from 'react-native';
 
 import {
   Container,
